@@ -39,7 +39,20 @@ The file name follows the format: `f"result.count/{model}-{task}-{max_dis}-{num_
 ## Timeline
 
 - 2024.01.14: release code.
+- 2024.01.19: update citation.
 
 ## Acknowledgement
 
 Our code is based on [SWL](https://github.com/subgraph23/SWL).
+
+## Citation
+
+If you find this repository useful, please cite our work:
+```
+@article{zhang2024beyond,
+  title={Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness},
+  author={Zhang, Bohang and Gai, Jingchu and Du, Yiheng and Ye, Qiwei and He, Di and Wang, Liwei},
+  journal={arXiv preprint arXiv:2401.08514},
+  year={2024}
+}
+```
